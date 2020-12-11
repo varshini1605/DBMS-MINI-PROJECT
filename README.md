@@ -1,2 +1,1 @@
-# DBMS-MINI-PROJECT
-DBMS-Application-Using-PHP
+# DBMS-Application-Using-PHP
